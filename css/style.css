@@ -21,10 +21,6 @@ body {
     margin: 0 20px;
 }
 
-slide {
-    transform: translate3d(600px, 0px, 0px);
-}
-
 img {
     display: block;
     max-width: 100%;
