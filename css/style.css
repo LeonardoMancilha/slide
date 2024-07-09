@@ -40,3 +40,26 @@ img {
     display: block;
     max-width: 100%;
 }
+
+[data-control="slide"] {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+[data-control="slide"] li {
+    display: block;
+    width: 12px;
+    height: 12px;
+    background: #FB5;
+    border-radius: 50%;
+    overflow: hidden;
+    text-indent: -999px;
+    margin: 5px;
+}
+
+[data-control="slide"] li:hover, [data-control="slide"] li.active {
+    cursor: pointer;
+    background: #E54;
+
+}
