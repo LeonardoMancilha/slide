@@ -30,7 +30,7 @@ Para rodar o projeto localmente, você precisa apenas de um navegador moderno.
 
 2. **Navegue até a pasta do projeto**:
    ```bash
-   cd Image-slider
+   cd slide
 
 3. Abra o arquivo index.html em seu navegador e o slide estará funcionando e pronto para uso!
 
